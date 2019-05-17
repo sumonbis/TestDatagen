@@ -11,7 +11,7 @@ world = "world"
 helloworld = hello + " " + world
 print(helloworld)
 
-x = 5 + 6 + 2 - 9
+x = 5 + 6 + 2 - 9 / 6 * 3
 a, b = 3, 4
 print(a,b)
 
