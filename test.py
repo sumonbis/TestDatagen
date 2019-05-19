@@ -1,7 +1,9 @@
 x = 1
 if x == 1:
-    # indented four spaces
     print("x is 1.")
+
+if x == 1 and 5 > 3:
+    print("Print this.")
 
 myfloat = float(7)
 print(myfloat)
