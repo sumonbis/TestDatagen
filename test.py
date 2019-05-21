@@ -1,4 +1,7 @@
 x = 1
+
+print "This is Python 2 program"
+
 if x == 1:
     print("x is 1.")
 
